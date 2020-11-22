@@ -1,3 +1,13 @@
-p { 
-    background-color: red;
+h1 { 
+    color: blue;
 }
+.teksti {
+    color: maroon;
+}
+ul {
+    color: magenta;
+}
+
+#punainen-kohta {
+    color: red;
+  }
