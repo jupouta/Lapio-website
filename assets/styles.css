@@ -1,0 +1,28 @@
+.first-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    float: left;
+    margin: 20px;
+  }
+  
+  .second-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    float: left;
+    margin: 20px;
+  }
+  
+  .third-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    float: left;
+    margin: 20px;
+  }
+
+.container {
+    flex-wrap: wrap;
+    float:left;
+}
