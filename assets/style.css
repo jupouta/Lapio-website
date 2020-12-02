@@ -1,13 +1,28 @@
 h1 { 
     color: blue;
+    margin-top: 1em;
+    padding-top: 1em;
 }
+h2 {
+    padding-top: 1em;
+}
+
 .teksti {
     color: maroon;
 }
 ul {
     color: magenta;
+    line-height: 1.1;
 }
 
 #punainen-kohta {
     color: red;
-  }
+}
+
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+}
